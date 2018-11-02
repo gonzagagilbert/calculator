@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: rgb(47, 85, 255);
+    font-size: 50px;
+}
+body{
+    background-color: navajowhite;
+    background-image: url();
+}
+form{
+    text-align: center;
+    padding: 500px;
+    padding-top: 0px;
+    margin-right: 50px;
+
+}
+table{
+    padding:50px;
+}
+input{
+    padding: 20px;
+    background-color: cyan;
+
+    
+}
